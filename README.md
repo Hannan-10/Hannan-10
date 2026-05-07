@@ -22,7 +22,17 @@ Always exploring new tools, improving system design skills, and building real-wo
 
 ## Reach Me Out
 
-- LinkedIn: https://www.linkedin.com/in/hannan-fareed-22b660247/ 
-- GitHub: https://github.com/Hannan-10
-- Email: hannan11862@gmail.com
-- Portfolio: https://hannanfareed-portfolio.vercel.app/
+<div align="left">
+  <a href="https://www.linkedin.com/in/hannan-fareed-22b660247/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/Hannan-10">
+    <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
+  </a>
+  <a href="mailto:hannan11862@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://hannanfareed-portfolio.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="portfolio logo"  />
+  </a>
+</div>
