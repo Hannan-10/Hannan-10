@@ -8,13 +8,11 @@ Always exploring new tools, improving system design skills, and building real-wo
 
 ## Key Technologies
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,angular,dotnet,ts )](https://skillicons.dev )
 
 ## What I Do
 
-- Full Stack Web Development (MERN Stack )
+- Full Stack Web Development (MERN Stack)
 - Backend API Development (Node.js / Express)
 - Database Design & Optimization
 - Frontend UI Development (React / Angular)
