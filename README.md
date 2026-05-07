@@ -1,4 +1,4 @@
-# Hannan Fareed 👋
+# Hannan Fareed
 
 A passionate Software Engineer focused on building scalable, efficient, and user-friendly applications. I enjoy working across the full stack, developing reliable backend systems and intuitive frontends using modern technologies.
 
@@ -6,53 +6,41 @@ Always exploring new tools, improving system design skills, and building real-wo
 
 ---
 
-## 🚀 Key Technologies
+## Key Technologies
 
-<p align="left">
+<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" title="Express"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" title="Angular"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" title=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
 
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
 
----
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/>
 
-## 💼 What I Do
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" height="45"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
+
+</div>
+
+## What I Do
 
 - Full Stack Web Development (MERN Stack)
 - Backend API Development (Node.js / Express)
-- Database Design & Management (MongoDB / MySQL)
+- Database Design & Optimization
 - Frontend UI Development (React / Angular)
-- Exploring AI integrations in web applications
+- Learning system design & AI integrations
 
 ---
 
-## 📂 Featured Projects
+## Reach Me Out
 
-- 🧠 CV Ranking System (AI-based Resume Scoring)
-- 💼 Job Portal Web Application (Recruiter + Applicant System)
-- 🔐 Authentication & Role-based Access System
-- 📊 Admin Dashboard for Data Management
-
----
-
-## 📫 Reach Me Out
-
-- LinkedIn: https://linkedin.com/in/your-profile  
-- GitHub: https://github.com/your-username  
-- Email: your-email@example.com  
-
----
-
-## ⚡ Fun Fact
-
-I love turning complex problems into simple, scalable solutions.
-
----
-
-### 🚀 Happy Coding :)
+- LinkedIn:https://www.linkedin.com/in/hannan-fareed-22b660247/ 
+- GitHub: https://github.com/Hannan-10
+- Email: hannan11862@gmail.com
+- Portfolio: https://hannanfareed-portfolio.vercel.app/
