@@ -32,7 +32,7 @@ Always exploring new tools, improving system design skills, and building real-wo
   <a href="mailto:hannan11862@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://hannanfareed-portfolio.vercel.app/">
+  <a href="https://hannan-portfolio.netlify.app/">
     <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="portfolio logo"  />
   </a>
 </div>
