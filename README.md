@@ -12,6 +12,10 @@ Proactive Computer Science graduate with hands-on experience in software develop
 - 🧠 Always exploring new tools and improving system design skills
 - 💼 Open to collaboration and opportunities
 - 🧠 Interested in: AI Integrations, System Design, Mobile Development
+- 🌱 Sharpening skills in NLP pipelines, computer vision, and predictive modeling
+- 🛠 Comfortable across the stack — React, React Native, Node.js, Python, and .NET Core
+- 🎯 2026 goal: ship more production-grade AI products end-to-end
+- ⚡ Fun fact: I enjoy turning research papers into working prototypes
 
 ---
 
