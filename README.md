@@ -1,44 +1,48 @@
 # Hi there! 👋 I'm Hannan Fareed
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+(MERN);Backend+API+Engineer;Exploring+AI+Integrations+%26+System+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full+Stack+Software+Engineer;Mobile+App+Developer+(React+Native);AI-Powered+Product+Builder)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate Software Engineer focused on building scalable, efficient, and user-friendly applications. I enjoy working across the full stack, developing reliable backend systems and intuitive frontends using modern technologies.
+Proactive Computer Science graduate with hands-on experience in software development, full-stack engineering, and system design. Proven ability to solve problems, adapt to new technologies, and thrive in dynamic environments. Passionate about learning and applying technical skills to deliver practical, impactful solutions.
 
-- 🔭 Currently building full-stack apps and exploring AI-powered tools
+- 🔭 Currently building AI-powered recruitment and healthcare platforms
 - 🧠 Always exploring new tools and improving system design skills
 - 💼 Open to collaboration and opportunities
-- 🧠 Interested in: System Design, AI Integrations, Backend Architecture
+- 🧠 Interested in: AI Integrations, System Design, Mobile Development
 
 ---
 
 ## ⭐ LATEST PROJECTS
 
-| 🤖 **AI CRM Agent** | 🛒 **Tech Haveli** |
+| 🚀 **WellSphere** | 🧴 **Skin Recommendation System** |
 |---|---|
-| **[AI-Powered CRM Agent](https://github.com/Hannan-10/AI-CRM-Agent)**<br/>AI-powered CRM tool with natural language processing, built with FastAPI and Next.js. <br/><br/>![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | **[Tech Haveli](https://github.com/Hannan-10/Tech-Haveli)**<br/>Full-stack MERN e-commerce platform for electronics with authentication and payment integration. <br/><br/>![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **[WellSphere](https://app.joinwellsphere.com/sign-in)** — Talent & Recruitment Platform<br/>Recruiter-applicant platform connecting businesses and professionals with a centralized admin panel, built with a scalable backend supporting recruiter/candidate workflows. <br/><br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) | **[Skin Recommendation System](https://github.com/Hannan-10/Skin-Recommendation-System)**<br/>AI-powered mobile app that detects skin conditions via CNN models and recommends matching skincare products. <br/><br/>![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+| 🤖 **TalentRank AI** | 🛒 **TechHaveli** |
+|---|---|
+| **[TalentRank AI](https://github.com/Hannan-10/Smart-Recruitment-NLP)** — Smart Recruitment System<br/>AI-powered recruitment platform where recruiters post jobs and candidates get auto-ranked via an NLP CV-screening pipeline (TF-IDF, SVM, Sentence-BERT). <br/><br/>![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | **[TechHaveli](https://github.com/Hannan-10/Tech-Haveli)** — E-commerce Application<br/>Full-stack MERN platform for online electronics and gadget sales with auth, catalog, cart, and payment integration. <br/><br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 
 ---
 
 ## 🔥 MORE PROJECTS
 
-| 📱 **[Edit Pixel](https://github.com/Hannan-10/Edit-Pixel---Android-Application)** | 🩺 **[Healthcare Chatbot](https://github.com/Hannan-10/Chatbot-for-Healthcare-Queries)** | 💎 **[Virtuel Elegance](https://github.com/Hannan-10/Virtuel-Elegance---Final-Year-Project)** |
+| 💃 **Virtuel Elegance** | ❤️ **Vital Signs** | 🩺 **Chatbot for Healthcare Queries** |
 |---|---|---|
-| Android image editor built with Kotlin and Jetpack Compose. | NLP-based healthcare chatbot using Retrieval-Augmented Generation (RAG). | Final Year Project — full-stack web application. |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222) |
+| Final Year Project — virtual try-on app using pose estimation (OpenCV, MediaPipe) and 3D clothing visualization in Unity. | AI-enabled connected health monitoring app with HealthKit/Health Connect sync and AI-assisted report generation. | NLP chatbot using Retrieval-Augmented Generation for accurate, context-aware medical responses. |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
 
-| 🚚 **[Speedify](https://github.com/Hannan-10/SDA-Project-Speedify)** | 🖼 **[JPEG Compression System](https://github.com/Hannan-10/JPEG-Compression-System)** | 🏏 **[Cricket Bazar](https://github.com/Hannan-10/Cricket-Bazar)** |
+| 🎮 **[GameBaazi](https://github.com/Hannan-10/Game-Baazi)** | 🏏 **[Cricket Bazaar](https://github.com/Hannan-10/Cricket-Bazar)** | ⚡ **[Billee Sense](https://github.com/Hannan-10/AI-Project-Energy-Consumption)** |
 |---|---|---|
-| Courier Management System built with Java. | Digital Image Processing project implementing JPEG compression. | Data Science project analyzing cricket data. |
-| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| Full-stack MERN platform for digital game and accessory sales with real-time order tracking. | Predictive models (regression/classification) estimating IPL auction prices from historical player data. | Predictive energy management system using Linear Regression and Neural Networks. |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
-| 🌐 **[My Portfolio](https://github.com/Hannan-10/My-Portfolio)** |
-|---|
-| Personal portfolio website showcasing my projects and experience. |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222) |
+| 📱 **[Edit Pixel](https://github.com/Hannan-10/Edit-Pixel---Android-Application)** | 🚚 **[Speedify](https://github.com/Hannan-10/SDA-Project-Speedify-)** | 🖼 **[JPEG Compression System](https://github.com/Hannan-10/JPEG-Compression-System)** |
+|---|---|---|
+| Android image editor with real-time filters, cropping, and enhancement tools. | Desktop courier management system automating parcel booking, tracking, and admin reporting. | JPEG compression for grayscale images implementing DCT, quantization, and zig-zag scanning. |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 > 👉 See pinned repos below for live demos and code!
 
@@ -46,9 +50,9 @@ I'm a passionate Software Engineer focused on building scalable, efficient, and 
 
 ## 🏆 HIGHLIGHTS
 
-| 🤖 AI & NLP | 🛒 Full-Stack MERN | 📱 Mobile Development | 🎓 Final Year Project |
+| 🚀 Live Product | 🤖 AI-Powered Recruitment | 🧴 AI Skin Analysis | 🎓 Final Year Project |
 |---|---|---|---|
-| Built AI/NLP-powered tools including a CRM agent and a healthcare chatbot | Shipped a complete e-commerce platform with auth & payments | Built an Android image editor with Kotlin & Jetpack Compose | Delivered Virtuel Elegance as a capstone project |
+| Shipped WellSphere, a live recruiter-applicant platform in production | Built TalentRank AI's NLP CV-ranking pipeline (TF-IDF, SVM, Sentence-BERT) | Built a CNN-based skin condition detection & product recommendation app | Delivered Virtuel Elegance — a virtual try-on app with pose estimation & 3D visualization |
 
 ---
 
@@ -73,37 +77,37 @@ I'm a passionate Software Engineer focused on building scalable, efficient, and 
 
 ## 🛠 TECH STACK
 
-**Languages**
+**Frontend**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![KnockoutJS](https://img.shields.io/badge/KnockoutJS-FF6C00?style=flat-square)
+![RequireJS](https://img.shields.io/badge/RequireJS-2A3F54?style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
 
-**Frameworks & Libraries**
+**Backend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Oracle JET](https://img.shields.io/badge/Oracle_JET-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-**Databases**
+**Database**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-**Developer Tools**
+**Version Control**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
