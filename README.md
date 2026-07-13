@@ -63,8 +63,8 @@ Proactive Computer Science graduate with hands-on experience in software develop
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hannan-10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hannan-10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hannan-10&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hannan-10&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
