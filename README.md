@@ -71,6 +71,27 @@ Proactive Computer Science graduate with hands-on experience in software develop
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hannan-10&theme=github_dark&utcOffset=5)
 ---
 
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hannan-10&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hannan-10&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Hannan-10&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hannan-10&theme=tokyonight"/>
+
+</p>
+
+------------
 ## 🐍 CONTRIBUTION SNAKE
 
 ![github contribution grid snake animation](https://github.com/Hannan-10/Hannan-10/raw/output/github-contribution-grid-snake-dark.svg)
