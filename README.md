@@ -62,15 +62,13 @@ Proactive Computer Science graduate with hands-on experience in software develop
 
 ## 📊 GITHUB STATS
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hannan-10&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hannan-10&layout=compact&theme=tokyonight" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hannan-10&theme=github_dark)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hannan-10&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hannan-10&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hannan-10&theme=github_dark)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hannan-10&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hannan-10&theme=github_dark&utcOffset=5)
 ---
 
 ## 🐍 CONTRIBUTION SNAKE
