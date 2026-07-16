@@ -97,6 +97,14 @@ Proactive Computer Science graduate with hands-on experience in software develop
   <img src="https://streak-stats.demolab.com?user=Hannan-10&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" />
 </p>
 
+## 🏅 GITHUB ACHIEVEMENTS
+
+<p align="center">
+  <a href="https://github.com/Hannan-10?tab=achievements">
+    <img src="https://img.shields.io/badge/View%20My-GitHub%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements"/>
+  </a>
+</p>
+
 ## 🐍 CONTRIBUTION SNAKE
 
 ![github contribution grid snake animation](https://github.com/Hannan-10/Hannan-10/raw/output/github-contribution-grid-snake-dark.svg)
