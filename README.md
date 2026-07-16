@@ -150,8 +150,8 @@ Proactive Computer Science graduate with hands-on experience in software develop
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
-  <a href="https://www.linkedin.com/in/hannan-fareed-22b660247/">
-  <img src="https://img.shields.io/badge/LinkedIn-FOLLOW_ME-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+ <a href="https://www.linkedin.com/in/hannan-fareed-22b660247/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 
   <a href="https://www.upwork.com/freelancers/~018cfc1df536ef5df9?mp_source=share">
