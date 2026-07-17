@@ -1,3 +1,12 @@
+<h1 align="center">
+Hi, I'm <b>Hannan Fareed</b> 👋
+</h1>
+
+<h3 align="center">
+Full Stack Software Engineer • AI Engineer • Mobile Developer
+</h3>
+
+
 # ***Hi there! I'm Hannan Fareed***
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full+Stack+Software+Engineer;Mobile+App+Developer+(React+Native);AI-Powered+Product+Builder)](https://git.io/typing-svg)
