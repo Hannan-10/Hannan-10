@@ -3,6 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full+Stack+Software+Engineer;Mobile+App+Developer+(React+Native);AI-Powered+Product+Builder)](https://git.io/typing-svg)
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full+Stack+Software+Engineer;Mobile+App+Developer+(React+Native);AI-Powered+Product+Builder)](https://git.io/typing-svg)
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full+Stack+Software+Engineer;Mobile+App+Developer+(React+Native);AI-Powered+Product+Builder)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full+Stack+Software+Engineer;Mobile+App+Developer+(React+Native);AI-Powered+Product+Builder)](https://git.io/typing-svg)
+
 ## 👨‍💻 About Me
 
 Proactive Computer Science graduate with hands-on experience in software development, full-stack engineering, and system design. Proven ability to solve problems, adapt to new technologies, and thrive in dynamic environments. Passionate about learning and applying technical skills to deliver practical, impactful solutions.
