@@ -51,7 +51,7 @@
 
 ---
 
-## 🏆 HIGHLIGHTS
+## 🏆***HIGHLIGHTS***
 
 | 🚀 Live Product | 🤖 AI-Powered Recruitment | 🧴 AI Skin Analysis | 🎓 Final Year Project |
 |---|---|---|---|
@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 GITHUB STATS
+## 📊 ***GITHUB STATS***
 
 <!-- GitHub Trophies -->
 <p align="center">
@@ -104,15 +104,15 @@
   </a>
 </p>
 
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 ***CONTRIBUTION SNAKE***
 
 ![github contribution grid snake animation](https://github.com/Hannan-10/Hannan-10/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## 🛠 TECH STACK
+## 🛠 ***TECH STACK***
 
-**Languages**
+***Languages***
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
@@ -122,7 +122,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-**Frameworks & Libraries**
+***Frameworks & Libraries***
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -140,7 +140,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Databases & Backend Services**
+***Databases & Backend Services***
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -149,7 +149,7 @@
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-**Developer Tools & DevOps**
+***Developer Tools & DevOps***
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -158,7 +158,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-**AI & ML**
+***AI & ML***
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -169,7 +169,7 @@
 
 ---
 
-## 📫 CONNECT WITH ME
+## 📫 ***CONNECT WITH ME***
 
 <p align="center">
   <a href="https://github.com/Hannan-10">
