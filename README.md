@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Hannan Fareed
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full+Stack+Software+Engineer;Mobile+App+Developer+(React+Native);AI-Powered+Product+Builder)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full+Stack+Software+Engineer;Mobile+App+Developer+(React+Native);AI-Powered+Product+Builder)](https://git.io/typing-svg)
 ---
 
 ## 👨‍💻 About Me
