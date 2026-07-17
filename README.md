@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-Proactive Computer Science graduate with hands-on experience in software development, full-stack engineering, and system design. Proven ability to solve problems, adapt to new technologies, and thrive in dynamic environments. Passionate about learning and applying technical skills to deliver practical, impactful solutions.
+*Proactive Computer Science graduate with hands-on experience in software development, full-stack engineering, and system design. Proven ability to solve problems, adapt to new technologies, and thrive in dynamic environments. Passionate about learning and applying technical skills to deliver practical, impactful solutions.*
 
 - 🔭 Currently building AI-powered recruitment and healthcare platforms
 - 🧠 Always exploring new tools and improving system design skills
