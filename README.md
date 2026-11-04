@@ -85,12 +85,6 @@
 
 ---
 
-<!-- GitHub Readme Stats -->
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hannan-10&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hannan-10&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 <!-- GitHub Streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hannan-10&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" />
