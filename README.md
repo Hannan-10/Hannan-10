@@ -62,8 +62,13 @@
 ## 📊 ***GITHUB STATS***
 
 <!-- GitHub Trophies -->
+## 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hannan-10&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+  <img src="https://img.shields.io/badge/Pair_Extraordinaire-Earned-a78bfa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pull_Shark-x2-38bdf8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Quickdraw-Earned-fbbf24?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YOLO-Earned-f97316?style=for-the-badge" />
 </p>
 
 <!-- Profile Summary -->
