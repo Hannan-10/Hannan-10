@@ -36,38 +36,232 @@ My experience spans full-stack development, fintech applications, distributed sy
 
 ---
 
+
 ## ⭐ LATEST PROJECTS
 
-| 🚀 **WellSphere** | 🧴 **Skin Recommendation System** |
-|---|---|
-| **[WellSphere](https://app.joinwellsphere.com/sign-in)** — Talent & Recruitment Platform<br/>Recruiter-applicant platform connecting businesses and professionals with a centralized admin panel, built with a scalable backend supporting recruiter/candidate workflows.<br/><br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) | **[Skin Recommendation System](https://github.com/Hannan-10/Skin-Recommendation-System)**<br/>AI-powered mobile app that detects skin conditions via CNN models and recommends matching skincare products.<br/><br/>![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| 🤖 **TalentRank AI** | 🛒 **TechHaveli** |
-|---|---|
-| **[TalentRank AI](https://github.com/Hannan-10/Smart-Recruitment-NLP)** — Smart Recruitment System<br/>AI-powered recruitment platform where recruiters post jobs and candidates get auto-ranked via an NLP CV-screening pipeline (TF-IDF, SVM, Sentence-BERT).<br/><br/>![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | **[TechHaveli](https://github.com/Hannan-10/Tech-Haveli)** — E-commerce Application<br/>Full-stack MERN platform for online electronics and gadget sales with auth, catalog, cart, and payment integration.<br/><br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+<h3 align="center">🚀 WellSphere</h3>
+
+<a href="https://app.joinwellsphere.com/sign-in">
+<img src="./assets/projects/WellSphere.png" width="100%" alt="WellSphere"/>
+</a>
+
+**Talent & Recruitment Platform**
+
+Recruiter-applicant platform connecting businesses and professionals with a centralized admin panel and scalable backend.
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🧴 Skin Recommendation System</h3>
+
+<a href="https://github.com/Hannan-10/Skin-Recommendation-System">
+<img src="./assets/projects/Skin-Alyst.png" width="100%" alt="Skin Recommendation System"/>
+</a>
+
+**AI-Powered Skincare Application**
+
+Mobile application using custom CNN models to identify skin types and conditions and recommend suitable skincare products.
+
+**Tech Stack**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 TalentRank AI</h3>
+
+<a href="https://github.com/Hannan-10/Smart-Recruitment-NLP">
+<img src="./assets/projects/smart-recruitment-system.jpg" width="100%" alt="TalentRank AI"/>
+</a>
+
+**Smart Recruitment System**
+
+AI-powered recruitment platform featuring automated CV screening and candidate ranking using NLP, TF-IDF, SVM and Sentence-BERT.
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🛒 TechHaveli</h3>
+
+<a href="https://github.com/Hannan-10/Tech-Haveli">
+<img src="./assets/projects/Tech-Haveli.png" width="100%" alt="TechHaveli"/>
+</a>
+
+**E-commerce Application**
+
+Full-stack MERN platform for online electronics and gadget sales, featuring authentication, product catalog, shopping cart and payment integration.
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🔥 MORE PROJECTS
 
-| 💃 **Virtuel Elegance** | ❤️ **Vital Signs** | 🩺 **Chatbot for Healthcare Queries** |
-|---|---|---|
-| Final Year Project — virtual try-on app using pose estimation (OpenCV, MediaPipe) and 3D clothing visualization in Unity. | AI-enabled connected health monitoring app with HealthKit/Health Connect sync and AI-assisted report generation. | NLP chatbot using Retrieval-Augmented Generation for accurate, context-aware medical responses. |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+<table>
+<tr>
+<td width="33%" valign="top">
 
-| 🎮 **[GameBaazi](https://github.com/Hannan-10/Game-Baazi)** | 🏏 **[Cricket Bazaar](https://github.com/Hannan-10/Cricket-Bazar)** | ⚡ **[Billee Sense](https://github.com/Hannan-10/AI-Project-Energy-Consumption)** |
-|---|---|---|
-| Full-stack MERN platform for digital game and accessory sales with real-time order tracking. | Predictive models (regression/classification) estimating IPL auction prices from historical player data. | Predictive energy management system using Linear Regression and Neural Networks. |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+<h3 align="center">💃 Virtuel Elegance</h3>
 
-| 📱 **[Edit Pixel](https://github.com/Hannan-10/Edit-Pixel---Android-Application)** | 🚚 **[Speedify](https://github.com/Hannan-10/SDA-Project-Speedify-)** | 🖼 **[JPEG Compression System](https://github.com/Hannan-10/JPEG-Compression-System)** |
-|---|---|---|
-| Android image editor with real-time filters, cropping, and enhancement tools. | Desktop courier management system automating parcel booking, tracking, and admin reporting. | JPEG compression for grayscale images implementing DCT, quantization, and zig-zag scanning. |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+<img src="./assets/projects/Virtual-Elegance.png" width="100%" alt="Virtuel Elegance"/>
 
-> 👉 See pinned repos below for live demos and code!
+Final Year Project featuring virtual clothing try-on using pose estimation and 3D clothing visualization.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">❤️ Vital Signs</h3>
+
+<img src="./assets/projects/Vital-signs.png" width="100%" alt="Vital Signs"/>
+
+AI-enabled connected health monitoring application with HealthKit and Health Connect integration, doctor appointments and AI-assisted reports.
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🩺 Healthcare Chatbot</h3>
+
+<img src="./assets/projects/NLP.png" width="100%" alt="Healthcare Chatbot"/>
+
+NLP-based healthcare chatbot using Retrieval-Augmented Generation for context-aware medical responses.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">🎮 GameBaazi</h3>
+
+<a href="https://github.com/Hannan-10/Game-Baazi">
+<img src="./assets/projects/Game-Baazi.png" width="100%" alt="GameBaazi"/>
+</a>
+
+Full-stack MERN platform for digital game and accessory sales with real-time order tracking.
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🏏 Cricket Bazaar</h3>
+
+<a href="https://github.com/Hannan-10/Cricket-Bazar">
+<img src="./assets/projects/Cricket Bazaar.png" width="100%" alt="Cricket Bazaar"/>
+</a>
+
+Predictive machine learning models estimating IPL auction prices using historical player data.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">⚡ Billee Sense</h3>
+
+<a href="https://github.com/Hannan-10/AI-Project-Energy-Consumption">
+<img src="./assets/projects/Bijlee Sense.png" width="100%" alt="Billee Sense"/>
+</a>
+
+Predictive energy management system using Linear Regression and Neural Networks.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">📱 Edit Pixel</h3>
+
+<a href="https://github.com/Hannan-10/Edit-Pixel---Android-Application">
+<img src="./assets/projects/Edit Pixel.png" width="100%" alt="Edit Pixel"/>
+</a>
+
+Android image editor with real-time filters, cropping and image enhancement tools.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🚚 Speedify</h3>
+
+<a href="https://github.com/Hannan-10/SDA-Project-Speedify-">
+<img src="./assets/projects/speedify.png" width="100%" alt="Speedify"/>
+</a>
+
+Desktop courier management system automating parcel booking, tracking and admin reporting.
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🖼️ JPEG Compression</h3>
+
+<a href="https://github.com/Hannan-10/JPEG-Compression-System">
+<img src="./assets/projects/JPEG Compression System.png" width="100%" alt="JPEG Compression System"/>
+</a>
+
+Grayscale JPEG compression implementation using DCT, quantization and zig-zag scanning.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
+
+> 👉 Explore my pinned repositories for more projects, source code and demonstrations!
+
 
 ## 🛠️ Technical Skills
 
