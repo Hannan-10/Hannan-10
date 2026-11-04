@@ -21,6 +21,7 @@
 ## 👨‍💻 About Me
 
 “To be, or not to be, that is the question.” — William Shakespeare, Hamlet, Act III, Scene I
+
 I'm a Computer Science graduate and Software Engineer passionate about building scalable applications, enterprise solutions, mobile experiences, and AI-powered products.
 
 My experience spans full-stack development, fintech applications, distributed systems, mobile development, and machine learning. I enjoy taking ideas from concept to implementation, solving complex engineering problems, and continuously exploring emerging technologies.
