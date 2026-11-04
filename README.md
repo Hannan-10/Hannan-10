@@ -1,41 +1,58 @@
-# ***Hi there! I'm Hannan Fareed***
+# Hi there! I'm Hannan Fareed 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full+Stack+Software+Engineer;Mobile+App+Developer+(React+Native);AI-Powered+Product+Builder)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=17&pause=1200&color=D85A30&center=true&vCenter=true&width=750&lines=Full+Stack+Software+Engineer;Fintech+%26+Enterprise+Application+Developer;React+Native+Mobile+App+Developer;AI-Powered+Product+Builder" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hannan-10">
+    <img src="https://img.shields.io/badge/GitHub-Hannan--10-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/hannan-fareed-22b660247/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://hannan-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-D85A30?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
 ---
 
-# ***About Me***
+## 👨‍💻 About Me
 
-*Proactive Computer Science graduate with hands-on experience in software development, full-stack engineering, and system design. Proven ability to solve problems, adapt to new technologies, and thrive in dynamic environments. Passionate about learning and applying technical skills to deliver practical, impactful solutions.*
+“To be, or not to be, that is the question.” — William Shakespeare, Hamlet, Act III, Scene I
+I'm a Computer Science graduate and Software Engineer passionate about building scalable applications, enterprise solutions, mobile experiences, and AI-powered products.
 
-- 🔭 Currently building AI-powered recruitment and healthcare platforms
-- 🧠 Always exploring new tools and improving system design skills
-- 💼 Open to collaboration and opportunities
-- 🧠 Interested in: AI Integrations, System Design, Mobile Development
-- 🌱 Sharpening skills in NLP pipelines, computer vision, and predictive modeling
-- 🛠 Comfortable across the stack — React, React Native, Node.js, Python, and .NET Core
-- 🎯 2026 goal: ship more production-grade AI products end-to-end
-- ⚡ Fun fact: I enjoy turning research papers into working prototypes
+My experience spans full-stack development, fintech applications, distributed systems, mobile development, and machine learning. I enjoy taking ideas from concept to implementation, solving complex engineering problems, and continuously exploring emerging technologies.
+
+- 💼 Software Engineer working on enterprise fintech applications.
+- 🏦 Experience with Java, Oracle platforms, and enterprise banking solutions.
+- 🌐 Full-stack development using React, Angular, Node.js, and .NET Core.
+- 📱 Mobile application development using React Native.
+- 🤖 Building AI-powered products using NLP, computer vision, and machine learning.
+- 🔍 Interested in system design, scalable architectures, and AI integrations.
+- 🤝 Open to collaboration, challenging projects, and professional opportunities.
 
 ---
 
-## ⭐ ***LATEST PROJECTS***
+## ⭐ LATEST PROJECTS
 
 | 🚀 **WellSphere** | 🧴 **Skin Recommendation System** |
 |---|---|
-| **[WellSphere](https://app.joinwellsphere.com/sign-in)** — Talent & Recruitment Platform<br/>Recruiter-applicant platform connecting businesses and professionals with a centralized admin panel, built with a scalable backend supporting recruiter/candidate workflows. <br/><br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) | **[Skin Recommendation System](https://github.com/Hannan-10/Skin-Recommendation-System)**<br/>AI-powered mobile app that detects skin conditions via CNN models and recommends matching skincare products. <br/><br/>![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[WellSphere](https://app.joinwellsphere.com/sign-in)** — Talent & Recruitment Platform<br/>Recruiter-applicant platform connecting businesses and professionals with a centralized admin panel, built with a scalable backend supporting recruiter/candidate workflows.<br/><br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) | **[Skin Recommendation System](https://github.com/Hannan-10/Skin-Recommendation-System)**<br/>AI-powered mobile app that detects skin conditions via CNN models and recommends matching skincare products.<br/><br/>![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 | 🤖 **TalentRank AI** | 🛒 **TechHaveli** |
 |---|---|
-| **[TalentRank AI](https://github.com/Hannan-10/Smart-Recruitment-NLP)** — Smart Recruitment System<br/>AI-powered recruitment platform where recruiters post jobs and candidates get auto-ranked via an NLP CV-screening pipeline (TF-IDF, SVM, Sentence-BERT). <br/><br/>![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | **[TechHaveli](https://github.com/Hannan-10/Tech-Haveli)** — E-commerce Application<br/>Full-stack MERN platform for online electronics and gadget sales with auth, catalog, cart, and payment integration. <br/><br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **[TalentRank AI](https://github.com/Hannan-10/Smart-Recruitment-NLP)** — Smart Recruitment System<br/>AI-powered recruitment platform where recruiters post jobs and candidates get auto-ranked via an NLP CV-screening pipeline (TF-IDF, SVM, Sentence-BERT).<br/><br/>![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | **[TechHaveli](https://github.com/Hannan-10/Tech-Haveli)** — E-commerce Application<br/>Full-stack MERN platform for online electronics and gadget sales with auth, catalog, cart, and payment integration.<br/><br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 
 ---
 
-## 🔥 ***MORE PROJECTS***
+## 🔥 MORE PROJECTS
 
 | 💃 **Virtuel Elegance** | ❤️ **Vital Signs** | 🩺 **Chatbot for Healthcare Queries** |
 |---|---|---|
 | Final Year Project — virtual try-on app using pose estimation (OpenCV, MediaPipe) and 3D clothing visualization in Unity. | AI-enabled connected health monitoring app with HealthKit/Health Connect sync and AI-assisted report generation. | NLP chatbot using Retrieval-Augmented Generation for accurate, context-aware medical responses. |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
 
 | 🎮 **[GameBaazi](https://github.com/Hannan-10/Game-Baazi)** | 🏏 **[Cricket Bazaar](https://github.com/Hannan-10/Cricket-Bazar)** | ⚡ **[Billee Sense](https://github.com/Hannan-10/AI-Project-Energy-Consumption)** |
 |---|---|---|
@@ -51,67 +68,9 @@
 
 ---
 
-## 🏆***HIGHLIGHTS***
+## 🛠️ Technical Skills
 
-| 🚀 Live Product | 🤖 AI-Powered Recruitment | 🧴 AI Skin Analysis | 🎓 Final Year Project |
-|---|---|---|---|
-| Shipped WellSphere, a live recruiter-applicant platform in production | Built TalentRank AI's NLP CV-ranking pipeline (TF-IDF, SVM, Sentence-BERT) | Built a CNN-based skin condition detection & product recommendation app | Delivered Virtuel Elegance — a virtual try-on app with pose estimation & 3D visualization |
-
----
-
-## 📊 ***GITHUB STATS***
-
-<!-- GitHub Trophies -->
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pair_Extraordinaire-Earned-a78bfa?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pull_Shark-x2-38bdf8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Quickdraw-Earned-fbbf24?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/YOLO-Earned-f97316?style=for-the-badge" />
-</p>
-
-<!-- Profile Summary -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hannan-10&theme=github_dark" />
-</p>
-
-<!-- Language Statistics -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hannan-10&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hannan-10&theme=github_dark" />
-</p>
-
-<!-- General Statistics -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hannan-10&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hannan-10&theme=github_dark&utcOffset=5" />
-</p>
-
----
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hannan-10&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" />
-</p>
-
-## 🏅 GITHUB ACHIEVEMENTS
-
-<p align="center">
-  <a href="https://github.com/Hannan-10?tab=achievements">
-    <img src="https://img.shields.io/badge/View%20My-GitHub%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements"/>
-  </a>
-</p>
-
-## 🐍 ***CONTRIBUTION SNAKE***
-
-![github contribution grid snake animation](https://github.com/Hannan-10/Hannan-10/raw/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## 🛠 ***TECH STACK***
-
-***Languages***
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
@@ -121,7 +80,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-***Frameworks & Libraries***
+### Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -139,7 +98,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-***Databases & Backend Services***
+### Databases & Services
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -148,16 +107,7 @@
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-***Developer Tools & DevOps***
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-
-***AI & ML***
+### AI, Machine Learning & Computer Vision
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -166,29 +116,83 @@
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square)
 ![Sentence-BERT](https://img.shields.io/badge/Sentence--BERT-FFB000?style=flat-square)
 
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
 ---
 
-## 📫 ***CONNECT WITH ME***
+## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/Hannan-10">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hannan-10&theme=github_dark" alt="GitHub Profile Summary" />
+</p>
 
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hannan-10&theme=github_dark" alt="Languages by Repository" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hannan-10&theme=github_dark" alt="Languages by Commits" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hannan-10&theme=github_dark" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hannan-10&theme=github_dark&utcOffset=5" alt="Productive Time" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hannan-10&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pair_Extraordinaire-Earned-a78bfa?style=for-the-badge" alt="Pair Extraordinaire" />
+  <img src="https://img.shields.io/badge/Pull_Shark-x2-38bdf8?style=for-the-badge" alt="Pull Shark x2" />
+  <img src="https://img.shields.io/badge/Quickdraw-Earned-fbbf24?style=for-the-badge" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/YOLO-Earned-f97316?style=for-the-badge" alt="YOLO" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hannan-10?tab=achievements">
+    <img src="https://img.shields.io/badge/View_All_GitHub_Achievements-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Achievements" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hannan-10/Hannan-10/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
   <a href="mailto:hannan11862@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
- <a href="https://www.linkedin.com/in/hannan-fareed-22b660247/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
+  <a href="https://www.linkedin.com/in/hannan-fareed-22b660247/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Hannan-10">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://www.upwork.com/freelancers/~018cfc1df536ef5df9?mp_source=share">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
-
   <a href="https://hannan-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-D85A30?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -199,5 +203,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hannan-10&color=D85A30&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Hannan-10&color=D85A30&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
