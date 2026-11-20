@@ -328,7 +328,6 @@ Grayscale JPEG compression implementation using DCT, quantization and zig-zag sc
   <img src="https://github-readme-stats.vercel.app/api?username=Hannan-10&show_icons=true&hide=stars,issues,reviews,contribs&hide_rank=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="500" />
 </p>
 
-
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hannan-10&theme=github_dark" alt="Languages by Repository" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hannan-10&theme=github_dark" alt="Languages by Commits" />
