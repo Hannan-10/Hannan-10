@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="./githubcover.jpg" alt="Hannan Fareed - GitHub Cover" width="100%" />
+  <img src="./assets/githubcover.jpg" alt="Hannan Fareed - GitHub Cover" width="100%" />
 </p>
 
 <p align="center">
