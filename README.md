@@ -2,10 +2,6 @@
   <img src="./assets/github-cover.png" alt="Hannan Fareed - GitHub Cover" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=17&pause=1200&color=D85A30&center=true&vCenter=true&width=750 alt="Typing SVG" />
-</p>
-
 
 # Hi there! I'm Hannan Fareed 👋
 
