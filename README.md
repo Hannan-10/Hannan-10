@@ -346,6 +346,17 @@ Grayscale JPEG compression implementation using DCT, quantization and zig-zag sc
 
 ---
 
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Hannan-10&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&show=reviews"
+    alt="Hannan's GitHub Stats"
+  />
+</p>
+
+
 ## 🏆 GitHub Achievements
 
 <p align="center">
